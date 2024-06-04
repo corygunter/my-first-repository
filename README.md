@@ -12,3 +12,5 @@ Important steps for git workflow:
 6. Review previous changes with git log
 
 I love using git!!
+
+Updating on github.com
